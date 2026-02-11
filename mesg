@@ -1,0 +1,21 @@
+<body>
+    <link rel='stylesheet' type='text/css' href='letter.css'>
+    <div class='container'>
+        <div class='Letter'>
+            <div class='envelope'></div>
+            <div class='front'></div>
+            <div class='card'>
+                <div class="text">I Love You!</br>You make me the happiest. </div>
+                <div class="heart"></div>
+            </div>
+            <div class="hearts">
+                <div class="one"></div>
+                <div class="two"></div>
+                <div class="three"></div>
+                <div class="four"></div>
+                <div class="five"></div>
+            </div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+</body>
